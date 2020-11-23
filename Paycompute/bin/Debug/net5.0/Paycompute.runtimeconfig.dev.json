@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\Shinigami\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\Shinigami\\.nuget\\packages"
+    ]
+  }
+}
